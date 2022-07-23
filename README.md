@@ -39,7 +39,7 @@ I need to improve my knowledge/use of CSS grid.
 
 ### Useful resources
 
-- [Free Code Camp CSS grid crash course](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Free Code Camp CSS grid crash course](https://www.example.com) - I used this to understand the fundamentals of CSS grid.
 
 ## Author
 
