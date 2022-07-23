@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ozeechristine/Four-Card-Feature-Section-Solution)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://ozeechristine.github.io/Four-Card-Feature-Section-Solution/)
 
 
 ### Built with
