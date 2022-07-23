@@ -1,1 +1,48 @@
-# Four-Card-Feature-Section-Solution
+# Frontend Mentor - Four card feature section solution
+
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+ - [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Links
+
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: (https://your-live-site-url.com)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+### Continued development
+
+I need to improve my knowledge/use of CSS grid.
+
+### Useful resources
+
+- [Free Code Camp CSS grid crash course](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+
+## Author
+
+- Frontend Mentor - [@ozeechristine](https://www.frontendmentor.io/profile/ozeechristine)
+- Twitter - [@ozeechristine](https://www.twitter.com/ozeechristine)
+
